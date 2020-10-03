@@ -1,5 +1,5 @@
 # Subtitles-Cleaner
-This python script moves all the subtitles file to one folder and makes them look good.
+This python script moves all the subtitles file to one folder.
 
 
 ![progif](https://user-images.githubusercontent.com/46348137/62010493-1efc5500-b189-11e9-89a8-71b394c7715e.gif)
